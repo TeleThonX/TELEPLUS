@@ -1,7 +1,7 @@
 {
-  "name": "X-tra Telegram",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/XtraTgChat for any problems or support",
-  "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
+  "name": TELE_THON",
+  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/tele_thon for any problems or support",
+  "logo": "https://telegra.ph/aaaDa---FFjRR-06-22",
   "keywords": [
     "telegram",
     "userbot",
@@ -55,7 +55,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: Total-Noob-69/X-Tra-Telegram, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: Total-Noob-69/tele_thon, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
